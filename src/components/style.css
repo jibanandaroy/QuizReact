@@ -33,6 +33,6 @@ p.category {
     font-size: 1.2rem;
 }
 .totals{
-    left: 80%;
-    position: relative;
+    left: 70%;
+    position: absolute;
 }
